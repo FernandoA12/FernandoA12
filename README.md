@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/FernandoA12/FernandoA12/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/FernandoA12/FernandoA12/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
