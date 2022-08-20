@@ -20,9 +20,7 @@
 
 ###
 
-<br />
 <h5 align="left">Languages and Tools:</h5>
-<br />
 
 ###
 
