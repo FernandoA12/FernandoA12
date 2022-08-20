@@ -1,22 +1,28 @@
-<br clear="both">
-
 <h1 align="left">Hi 👋, I'm Fernando Souza</h1>
-
-###
 
 <h3 align="left">A passionate fullstack developer from Brazil</h3>
 
 ###
 
-<p align="left">💻 Clean architecture enthusiast, passionate about performance and everything connected to technology</p>
+<div style="right:40px;">
+  <img src="./profile.png" width="400" />
+</div>
 
 ###
 
-🔭 I’m currently working on [Doxa Code](https://doxacode.com.br) my own software house, founded with a lot of love
+###
+
+<p align="left">💻 Clean architecture enthusiast, passionate about performance and everything connected to technology!</p>
 
 ###
 
+🔭 I’m currently working on [Doxa Code](https://doxacode.com.br) my own software house, founded with a lot of love!
+
+###
+
+<br />
 <h5 align="left">Languages and Tools:</h5>
+<br />
 
 ###
 
