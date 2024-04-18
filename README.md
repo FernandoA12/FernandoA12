@@ -5,7 +5,7 @@
 ###
 
 <div style="right:40px;">
-  <img src="./profile.png" width="400" />
+  <img src="./profile.png" width="200" />
 </div>
 
 ###
