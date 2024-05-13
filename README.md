@@ -24,7 +24,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=adonis,androidstudio,apollo,arduino,astro,aws,bash,bitbucket,bootstrap,bun,cloudflare,codepen,css,cypress,debian,deno,bots,docker,dynamodb,elasticsearch,electron,express,figma,firebase,git,github,githubactions,gitlab,gherkin,go,grafana,graphql,html,js,jest,jquery,kafka,kubernetes,linux,md,materialui,mongodb,mysql,nextjs,ngix,nodejs,notion,npm,obsidian,pnpm,postgres,postman,powershell,prisma,prometheus,py,rabbitmq,react,redis,redux,regex,remix,sass,styledcomponents,sublime,supabase,sklearn,selenium,sentry,sequelize,svelte,tailwind,tensorflow,ts,ubuntu,vercel,vite,vitest,vscode,yarn&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=adonis,androidstudio,apollo,arduino,astro,aws,bash,bitbucket,bootstrap,bun,cloudflare,codepen,css,cypress,debian,deno,bots,docker,dynamodb,elasticsearch,electron,express,figma,firebase,git,github,githubactions,gitlab,gherkin,go,grafana,graphql,html,js,jest,jquery,kafka,kubernetes,linux,md,materialui,mongodb,mysql,nextjs,nginx,nodejs,notion,npm,obsidian,pnpm,postgres,postman,powershell,prisma,prometheus,py,rabbitmq,react,redis,redux,regex,remix,sass,styledcomponents,sublime,supabase,sklearn,selenium,sentry,sequelize,svelte,tailwind,tensorflow,ts,ubuntu,vercel,vite,vitest,vscode,yarn&perline=10)](https://skillicons.dev)
 
 ###
 
